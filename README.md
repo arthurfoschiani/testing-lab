@@ -1,5 +1,7 @@
 # Testing Lab
 
+**[➜ Ver rodando](https://testing-lab-seven.vercel.app/)**
+
 Guia interativo de testes unitários no Angular com Jasmine. A ideia é simples: em vez de só ler sobre `describe`, `it` e `expect`, você roda os exemplos no próprio navegador e vê o resultado (verde ou vermelho) na hora.
 
 O app traz um pequeno motor compatível com a API do Jasmine que executa as suítes ao vivo, então cada conceito vem com um exemplo de verdade rodando ao lado da explicação.
